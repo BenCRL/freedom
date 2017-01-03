@@ -1,0 +1,127 @@
+1.pgp使用教程
+2.mysql连接 8小时自动断开问题
+3.总结提交数据方式，$.ajax,window.loaction.href,form表单提交，form iframe提交
+4.request.setcharxxx只有第一次生效问题，解决方案
+5.spring拦截器写法 secutyInxxx
+6.浮点数问题，金额最好存分，如何比较两个浮点数是否相等
+7.深入了解生产者与消费者模式，相关消息队列使用 
+  生产者消费者详解：http://blog.csdn.net/monkey_d_meng/article/details/6251879
+8.缓存框架使用，内存缓存框架，服务器缓存框架
+9.shiro框架全面使用
+10.常用正则式，爬虫巩固
+   问号：问号可以表示重复前面内容的0次或一次，也就是要么不出现，要么出现一次。
+   括号：小括号就是括号内看成一个整体 ,中括号就是匹配括号内的其中一个,大括号就是匹配几次
+   1.去除row.id [,][ ][']\w{18}[']
+   2.保留两位小数 ^[0-9]+([.]{1}[0-9]{1,2})?$
+11.jsp是如何生成的，得到js可以获取服务器参数的根本原因。
+12.jsp提示消息方案，ajax,r.msg或者刷新页面，request.setaxxx,js检查是否存在相关服务器数据
+13.oracle 序列问题，深入了解
+14.打印页面方法，最佳实现，使用pdf打印，次之，js print
+15.总结常用jquery插件
+    jquery.colorbox.js 弹出框
+	jquery.page.js 分页
+	jquery.validate.js 表单验证框架
+	SMValidator表单验证框架 https://wldragon.github.io/SMValidator/tutor/tutor1.html https://github.com/WLDragon/SMValidator
+	charCount.js 输入框控件剩余次数提示控件
+	1.22 提示文本的隐藏与显示 代替 placeholder 属性
+	1.30 页面加载后消息框居中显示
+	1.31 创建页面固定浮动栏的方法
+	jquery.ui.autoComplete.js 自动完成
+16.java分页深入研究，jquer.page.js结合java实现
+17.session无登录，使用某个id作为判断标识，spring mvc url 变量使用
+18.封装时间调度器
+19.css,js缓存解决方案 ，version如何加入
+20.cps验证框架深入了解，Hibernate验证框架使用
+21.spring aop,日志aop ,oto
+22.spring动态切换数据源，加入aop，可实现不同dao，切面直接切换数据源操作，实现读写分离？
+23.分表分库实现
+24.session跨域共享问题， response.sendredirct java session跨域共享
+    http://blog.csdn.net/jucrazy/article/details/7162247
+    http://blog.csdn.net/zsy_gemini/article/details/2840665
+25.java通过sessionId获取session方法实现
+   http://www.cnblogs.com/demon-kingdom/p/4466504.html
+   http://blog.csdn.net/ranmudaofa/article/details/39623901
+26.java邮件服务
+27.java https证书问题 keytool -import -file apigw.cer -keystore cacerts -alias apigw
+
+	ISO8583报文协议 http://blog.csdn.net/evilstar2015/article/details/51331779
+					http://763691.iteye.com/blog/730915
+					http://www.aiuxian.com/article/p-1114515.html
+					http://www.cnblogs.com/dengzhaozhe/archive/2009/05/09/1453251.html
+	源码,反码,补码  http://blog.csdn.net/zq602316498/article/details/39404043
+					http://www.linuxidc.com/Linux/2015-02/113863.htm
+
+	项目学习：https://github.com/kanwangzjm/funiture
+			  https://github.com/wosyingjun/beauty_ssm
+			  
+			  
+	淘宝首页技术：https://www.huxiu.com/article/152028.html
+			  
+	名人github学习：http://www.csdn.net/article/2014-08-06/2821086
+					https://github-ranking.com/
+
+	博客搭建：github博客搭建 http://jerryzou.com/posts/opentopublic/
+	                         http://hjxandhmr.github.io/2016/04/15/hello-hexo/
+							 http://jekyll.com.cn/
+							 https://nkcoder.github.io/2014/01/05/github-pages-and-octopress-blog-built/
+
+   	Javascript：
+	1)javascrpit如何学习？ 				     	https://zhuanlan.zhihu.com/p/23265155?refer=dreawer
+	2)WEB前端必备学习指南  						http://blog.thankbabe.com/collection/?from=sf9
+	3)可视化正则表达式     						https://regexper.com/ https://jex.im/regulex/#!embed=false&flags=&re= https://www.debuggex.com/
+	4)实用java面试题       						https://zhuanlan.zhihu.com/p/23533393?refer=dreawer
+    5)七天学会NodeJS       						http://www.lvtao.net/content/book/node.js.htm Node.js 是一个让 JavaScript 运行在服务端的开发平台
+    6)Express入门教程：一个简单的博客      	 	http://www.tuicool.com/articles/jueARjE
+	7)Vue 组件化开发实践                     	http://gold.xitu.io/entry/55f77eb460b28e6a6f0f4f86
+	8)一个完整的前端是不是 这样的				https://segmentfault.com/q/1010000007431086
+    9)js混淆现在最好的方法是什么?               https://cnodejs.org/topic/5507dbd953ad0efa46bc500b uglifyjs,closure compiler,jsfuck
+	10)Express 开发与部署最佳实践               https://cnodejs.org/topic/56a3c8f47ec020ed4b96b2cd
+	11)UglifyJS压缩js文件和jsp里面的js代码      http://matychen.iteye.com/blog/1536996
+	12)使用Express与Mongo搭建多人博客           http://wiki.jikexueyuan.com/project/express-mongodb-setup-blog/simple-blog.html http://www.paidepaiper.top/
+	13)前端学习路线总结                         https://github.com/JacksonTian/fks https://github.com/qiu-deqing/FE-learning
+	14)github搭建个人静态博客                   http://www.jianshu.com/p/f61e76cfb31b
+	15)各类技术推荐书籍                         http://blog.jobbole.com/106093/
+	16)阿里面试经验                             http://www.importnew.com/22056.html http://www.jianshu.com/p/5681a1f0aad6
+	17)原生ajax封装                             https://github.com/GerryIsWarrior/ajax
+	18)我所认识的javascript正则表达式           http://www.cnblogs.com/zichi/p/4343009.html
+	19)详解javascript立即执行函数表达式（IIFE） http://www.cnblogs.com/zichi/p/4401755.html                                 
+	20)JavaScript的attribute和property辨析      http://www.cnblogs.com/zichi/p/4786455.html
+	21)一个前端的自我修养                       http://taobaofed.org/blog/2016/03/23/the-growth-of-front-end/
+	22)前端乱炖									http://www.html-js.com/
+	23)JavaScript 的开源功能插件和框架小集锦    https://my.oschina.net/u/2903254/blog/806029
+	
+	JAVA：
+	1)StringBuffer与StringBuilder       http://www.cnblogs.com/ITtangtang/p/3976820.html
+	2)JAVA代理                          https://www.zhihu.com/question/20794107 http://blog.csdn.net/dreamrealised/article/details/12885739
+	3)动态代理proxy与CGLlib             http://blog.csdn.net/hintcnuie/article/details/10954631  http://www.cnblogs.com/jqyp/archive/2010/08/20/1805041.html
+	4)JAVA正则                          http://www.cnblogs.com/ggjucheng/p/3423731.html
+	5)详解当当网的分布式作业框架elastic-job http://www.infoq.com/cn/articles/dangdang-distributed-work-framework-elastic-job
+	6)JAVA byte to X                    http://blog.csdn.net/ycb1689/article/details/22922889
+	7)spring mvc 文档 ：中文            https://linesh.gitbooks.io/spring-mvc-documentation-linesh-translation/content/CONTENTS.html?q=Attributes
+	                    中文与原版一致  http://7xvpsh.com1.z0.glb.clouddn.com/
+						英文            http://docs.spring.io/spring-framework/docs/4.2.4.RELEASE/spring-framework-reference/html/mvc.html
+	
+	架构：
+	基于keepalived的nginx高可用方案     http://wosyingjun.iteye.com/blog/2313147
+	
+博客文章列表：
+1.JAVA正则表达式基本用法（初步完成）
+2.javascript正则表达式基本用法(未完成)
+3.java验证码
+4.java代理模式
+5.java分页实现
+6.java quartz https://github.com/snailxr/quartz-spring_demo https://nkcoder.github.io/tags/quartz/page/2/
+
+
+jquery常用插件：
+1)增强select 在github上搜索 jquery select
+	select2 : https://github.com/select2/select2
+
+	
+	
+maven常用命令:
+创建webapp:mvn archetype:create(3.0.5版本以下使用create,3.0.5版本使用generate)
+  -DgroupId=[your project's group id]
+  -DartifactId=[your project's artifact id]
+  -DarchetypeArtifactId=maven-archetype-webapp
+mvn archetype:create -DgroupId=com.learn -DartifactId=page-demo -DarchetypeArtifactId=maven-archetype-webapp  
