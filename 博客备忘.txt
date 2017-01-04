@@ -113,12 +113,16 @@
 6.java quartz https://github.com/snailxr/quartz-spring_demo https://nkcoder.github.io/tags/quartz/page/2/
 
 
+eclipse tomcat不自动reload,修改简单代码立即生效
+http://blog.csdn.net/czx33859066/article/details/46893985
+http://blog.csdn.net/zhuzhu505/article/details/48421633
+
 jquery常用插件：
 1)增强select 在github上搜索 jquery select
 	select2 : https://github.com/select2/select2
 
 	
-	
+pom.xml详细解释:http://www.cnblogs.com/yangxia-test/p/4396159.html
 maven常用命令:
 创建webapp:mvn archetype:create(3.0.5版本以下使用create,3.0.5版本使用generate)
   -DgroupId=[your project's group id]
