@@ -100,7 +100,12 @@
 	7)spring mvc 文档 ：中文            https://linesh.gitbooks.io/spring-mvc-documentation-linesh-translation/content/CONTENTS.html?q=Attributes
 	                    中文与原版一致  http://7xvpsh.com1.z0.glb.clouddn.com/
 						英文            http://docs.spring.io/spring-framework/docs/4.2.4.RELEASE/spring-framework-reference/html/mvc.html
-	
+	8)mybatis :
+						不要删除mybatis自动生成的注释 http://www.cnblogs.com/AloneSword/p/4883472.html
+						MyBatis Generator generatorConfig.xml配置详解 http://blog.csdn.net/pk490525/article/details/16819307
+						Mybatis Generator最佳使用实现 http://git.oschina.net/free/Mapper/blob/master/wiki/mapper3/7.UseMBG.md
+	9) hibernate :
+						解决使用HIBERNATE对ORACLE数据库中数据进行排序分页错乱的问题 : http://blog.csdn.net/aquadp/article/details/2248612
 	架构：
 	基于keepalived的nginx高可用方案     http://wosyingjun.iteye.com/blog/2313147
 	
