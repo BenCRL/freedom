@@ -64,6 +64,8 @@
 	                         http://hjxandhmr.github.io/2016/04/15/hello-hexo/
 							 http://jekyll.com.cn/
 							 https://nkcoder.github.io/2014/01/05/github-pages-and-octopress-blog-built/
+							 
+	2016 年度码云热门项目排行榜 TOP 50 : https://www.oschina.net/news/80909/2016-oschina-git-top-50
 
    	Javascript：
 	1)javascrpit如何学习？ 				     	https://zhuanlan.zhihu.com/p/23265155?refer=dreawer
