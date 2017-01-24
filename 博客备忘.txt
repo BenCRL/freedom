@@ -91,6 +91,9 @@
 	21)一个前端的自我修养                       http://taobaofed.org/blog/2016/03/23/the-growth-of-front-end/
 	22)前端乱炖									http://www.html-js.com/
 	23)JavaScript 的开源功能插件和框架小集锦    https://my.oschina.net/u/2903254/blog/806029
+	24)知乎上前端开发领域有哪些值得推荐的问答？ https://www.zhihu.com/question/20246142
+	25)关于后端程序员写前端用什么框架更好？ 	https://www.zhihu.com/question/37946473
+	
 	
 	JAVA：
 	1)StringBuffer与StringBuilder       http://www.cnblogs.com/ITtangtang/p/3976820.html
