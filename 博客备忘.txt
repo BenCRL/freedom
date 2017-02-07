@@ -98,6 +98,8 @@
 	10)Java工程师成神之路:
 						http://www.hollischuang.com/archives/489
 	11)面试感悟----一名3年工作经验的程序员应该具备的技能 ：http://www.cnblogs.com/xrq730/p/5260294.html
+	
+	12)AJAX POST请求中参数以form data和request payload形式在servlet中的获取方式 : http://blog.csdn.net/mhmyqn/article/details/25561535
 						
 						
 ---------------架构：
