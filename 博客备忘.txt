@@ -108,6 +108,12 @@
 	
 	
 ---------------Javascript：
+	JS 课程大纲传送门：
+		翻书版本：http://www.miaov.com/index.php/course/coursedetail/cid/22
+		列表版本：http://www.miaov.com/index.php/Course/outlineTree/cid/22/sid/1
+		JS练习测评： http://bbs.miaov.com/forum.php?mod=viewthread&tid=7524
+		练习参考例子: http://fantaghiro.github.io/miaov/
+		
 	1)javascrpit如何学习？ 				     	https://zhuanlan.zhihu.com/p/23265155?refer=dreawer
 	2)WEB前端必备学习指南  						http://blog.thankbabe.com/collection/?from=sf9
 	3)可视化正则表达式     						https://regexper.com/ https://jex.im/regulex/#!embed=false&flags=&re= https://www.debuggex.com/
