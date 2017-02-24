@@ -108,6 +108,9 @@
 	
 	
 ---------------Javascript：
+	PS切图相关： 1）一键生成网页，切图工具网站： http://kuaiqie.qdsay.com/
+				 2）一键截图动作：http://www.cnblogs.com/rangzf/p/3279848.html
+
 	JS 课程大纲传送门：
 		翻书版本：http://www.miaov.com/index.php/course/coursedetail/cid/22
 		列表版本：http://www.miaov.com/index.php/Course/outlineTree/cid/22/sid/1
