@@ -76,6 +76,7 @@
 	                         http://hjxandhmr.github.io/2016/04/15/hello-hexo/
 							 http://jekyll.com.cn/
 							 https://nkcoder.github.io/2014/01/05/github-pages-and-octopress-blog-built/
+	使用ngrok让微信公众平台通过80端口访问本机:http://blog.csdn.net/liuxiyangyang/article/details/22922265/
 							 
 	2016 年度码云热门项目排行榜 TOP 50 : https://www.oschina.net/news/80909/2016-oschina-git-top-50
 	
@@ -143,6 +144,9 @@
 	24)知乎上前端开发领域有哪些值得推荐的问答？ https://www.zhihu.com/question/20246142
 	25)关于后端程序员写前端用什么框架更好？ 	https://www.zhihu.com/question/37946473
 	
+	
+---------------HTML,CSS：
+		ie bug集合：http://www.w3cplus.com/solution/iebug/iebug.html
 
 
 ---------------bootstrap学习：
@@ -163,8 +167,15 @@
 
 5)jQuery-contextMenu : https://github.com/swisnl/jQuery-contextMenu
 					   http://www.cnblogs.com/landeanfen/p/5179960.html
+					   
+6)IE支持CSS3属性 PIE : https://github.com/lojjic/PIE
+					   http://www.zhangxinxu.com/wordpress/2010/07/pie使ie支持css3圆角盒阴影与渐变渲染/
+
+7)CSS > 译文：理解CSS中的块级格式化上下文:https://segmentfault.com/a/1190000003068557
+
+8)CSS 最核心的几个概念: https://segmentfault.com/a/1190000000483972
 			   
-			   
+9)谈谈BFC与ie特有属性hasLayout:https://segmentfault.com/a/1190000004621361			   
 
 ---------------jquery常用插件：
 
