@@ -56,6 +56,20 @@
 26.java https证书问题 keytool -import -file apigw.cer -keystore cacerts -alias apigw
 
 ---------------杂烩：
+	外包：https://www.zhihu.com/question/51694684
+		  https://www.zhihu.com/question/42777944?from=profile_question_card
+		  https://www.zhihu.com/question/28196848
+	1.jointforce
+	2.码市
+	3.程序员客栈
+	程序员客栈 ： 原型，设计，web端/iOS/Android 端开发，专家驻场。
+	码士：互联网/移动互联网开发所有范围，专家驻场
+	英选：所有的移动平台（ iOS、 Android和微信公众号）、web平台和后端开发。
+	快码：互联网/移动互联网开发所有范围
+	
+	
+	威客、猪八戒
+
 	ISO8583报文协议 http://blog.csdn.net/evilstar2015/article/details/51331779
 					http://763691.iteye.com/blog/730915
 					http://www.aiuxian.com/article/p-1114515.html
@@ -101,6 +115,15 @@
 	11)面试感悟----一名3年工作经验的程序员应该具备的技能 ：http://www.cnblogs.com/xrq730/p/5260294.html
 	
 	12)AJAX POST请求中参数以form data和request payload形式在servlet中的获取方式 : http://blog.csdn.net/mhmyqn/article/details/25561535
+	
+	13)DelayQueue : http://www.cnblogs.com/jobs/archive/2007/04/27/730255.html
+					http://www.cnblogs.com/sunzhenchao/p/3515085.html
+					http://blog.csdn.net/soonfly/article/details/58599087
+					1.短信发送.
+					2.日志记录.
+					3.邮件发送.
+					4.通知服务.
+	14)maven+spring-boot+springfox+swagger2markup+spring restdoc+asciidoctor生成完美的rest文档：http://blog.csdn.net/daisy_xiu/article/details/52368920
 						
 						
 ---------------架构：
@@ -143,10 +166,17 @@
 	23)JavaScript 的开源功能插件和框架小集锦    https://my.oschina.net/u/2903254/blog/806029
 	24)知乎上前端开发领域有哪些值得推荐的问答？ https://www.zhihu.com/question/20246142
 	25)关于后端程序员写前端用什么框架更好？ 	https://www.zhihu.com/question/37946473
+	26)JS 中的闭包是什么？ 						https://zhuanlan.zhihu.com/p/22486908★★★
+	27）什么是MVVM? 							https://lovin0730.github.io/2016/12/19/simple-mvvm/
+	28)如何编写一个loading进度条插件 			http://web.jobbole.com/90580/
 	
 	
 ---------------HTML,CSS：
-		ie bug集合：http://www.w3cplus.com/solution/iebug/iebug.html
+		1)ie bug集合：http://www.w3cplus.com/solution/iebug/iebug.html
+		2)css-中的垂直居中法:http://elevenbeans.github.io/2016/05/04/css-中的垂直居中法/
+		3)CSS > 译文：理解CSS中的块级格式化上下文:https://segmentfault.com/a/1190000003068557
+		4)CSS 最核心的几个概念: https://segmentfault.com/a/1190000000483972
+		5)谈谈BFC与ie特有属性hasLayout:https://segmentfault.com/a/1190000004621361		
 
 
 ---------------bootstrap学习：
@@ -170,12 +200,7 @@
 					   
 6)IE支持CSS3属性 PIE : https://github.com/lojjic/PIE
 					   http://www.zhangxinxu.com/wordpress/2010/07/pie使ie支持css3圆角盒阴影与渐变渲染/
-
-7)CSS > 译文：理解CSS中的块级格式化上下文:https://segmentfault.com/a/1190000003068557
-
-8)CSS 最核心的几个概念: https://segmentfault.com/a/1190000000483972
-			   
-9)谈谈BFC与ie特有属性hasLayout:https://segmentfault.com/a/1190000004621361			   
+	   
 
 ---------------jquery常用插件：
 
