@@ -91,6 +91,9 @@
 							 http://jekyll.com.cn/
 							 https://nkcoder.github.io/2014/01/05/github-pages-and-octopress-blog-built/
 	使用ngrok让微信公众平台通过80端口访问本机:http://blog.csdn.net/liuxiyangyang/article/details/22922265/
+	八大免费SSL证书：给你的网站免费添加HTTPS加密:http://www.chinaz.com/free/2016/1103/605592.shtml
+	免费SSL证书Let’s Encrypt安装使用教程：Apache和Nginx:http://www.chinaz.com/web/2015/1221/486106.shtml?qq-pf-to=pcqq.group&_t_t_t=0.2286500814370811
+	
 							 
 	2016 年度码云热门项目排行榜 TOP 50 : https://www.oschina.net/news/80909/2016-oschina-git-top-50
 	
@@ -123,7 +126,10 @@
 					2.日志记录.
 					3.邮件发送.
 					4.通知服务.
-	14)maven+spring-boot+springfox+swagger2markup+spring restdoc+asciidoctor生成完美的rest文档：http://blog.csdn.net/daisy_xiu/article/details/52368920
+	14)maven+spring-boot+springfox+e+spring restdoc+asciidoctor生成完美的rest文档：http://blog.csdn.net/daisy_xiu/article/details/52368920
+	
+	15)oracle分页的三种方法：http://www.cnblogs.com/szlbm/p/5806070.html
+							 http://www.cnblogs.com/greatfish/p/6008265.html
 						
 						
 ---------------架构：
@@ -213,6 +219,7 @@
 					 
 ---------------maven:		 
 pom.xml详细解释:http://www.cnblogs.com/yangxia-test/p/4396159.html
+Maven实战（六）--- dependencies与dependencyManagement的区别:http://blog.csdn.net/liutengteng130/article/details/46991829
 maven常用命令:
 创建webapp:mvn archetype:create(3.0.5版本以下使用create,3.0.5版本使用generate)
   -DgroupId=[your project's group id]
@@ -220,6 +227,10 @@ maven常用命令:
   -DarchetypeArtifactId=maven-archetype-webapp
 mvn archetype:create -DgroupId=com.learn -DartifactId=page-demo -DarchetypeArtifactId=maven-archetype-webapp  
 
+maven assemble打包插件:http://blog.csdn.net/e5945/article/details/7777286
+					   http://blog.csdn.net/WANGYAN9110/article/details/38646677/
+					   http://bglmmz.iteye.com/blog/2058914
+					   http://www.jianshu.com/p/afb79650b606
 
 博客文章列表：
 1.JAVA正则表达式基本用法（完成）
