@@ -130,6 +130,10 @@
 	
 	15)oracle分页的三种方法：http://www.cnblogs.com/szlbm/p/5806070.html
 							 http://www.cnblogs.com/greatfish/p/6008265.html
+							 
+	16)SpringMVC在Controller层中注入request的坑:
+							 https://my.oschina.net/sluggarddd/blog/678603?fromerr=XhvpvVTi
+	17)fastjson格式转换 ：http://bbs.csdn.net/topics/391843950?page=1
 						
 						
 ---------------架构：
@@ -175,6 +179,11 @@
 	26)JS 中的闭包是什么？ 						https://zhuanlan.zhihu.com/p/22486908★★★
 	27）什么是MVVM? 							https://lovin0730.github.io/2016/12/19/simple-mvvm/
 	28)如何编写一个loading进度条插件 			http://web.jobbole.com/90580/
+	29)gulp 									http://www.jianshu.com/p/98db023b5b89 
+												http://www.tuicool.com/articles/qUvyEj
+	30)json-server 								http://blog.csdn.net/csr0312/article/details/50845350
+	
+	31)boostrap-treeview extend 				http://blog.csdn.net/hotqin888/article/details/54798737?locationNum=8&fps=1
 	
 	
 ---------------HTML,CSS：
