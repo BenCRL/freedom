@@ -142,6 +142,7 @@
 						
 ---------------架构：
 	基于keepalived的nginx高可用方案     http://wosyingjun.iteye.com/blog/2313147
+	Nginx反向代理，负载均衡，redis session共享，keepalived高可用 http://www.cnblogs.com/mrlinfeng/p/6146866.html
 	
 	
 	
