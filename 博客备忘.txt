@@ -257,3 +257,11 @@ maven assemble打包插件:http://blog.csdn.net/e5945/article/details/7777286
 4.java代理模式
 5.java分页实现
 6.java quartz https://github.com/snailxr/quartz-spring_demo https://nkcoder.github.io/tags/quartz/page/2/
+
+
+正则表达式：
+mysql 连接替换成ORACLE CONCAT\('%',#\{(.+)\},'%'\) '%' || #{$1} || '%'
+ROWID:[,][ ]['][A-Za-z]{18}[']  [,][ ][']\w{18}[']
+保留2位小数（前面不能有0）：^[1-9]{1}\d*(\.\d{1,2})?$|^0(\.\d{1,2})?$
+保留2位小数（前面可以为0）：^[0-9]+([.]{1}[0-9]{1,2})?$
+匹配中文字符:^"[\u4e00-\u9fa5]+"$
