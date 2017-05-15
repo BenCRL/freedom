@@ -115,6 +115,8 @@
 						不要删除mybatis自动生成的注释 http://www.cnblogs.com/AloneSword/p/4883472.html
 						MyBatis Generator generatorConfig.xml配置详解 http://blog.csdn.net/pk490525/article/details/16819307
 						Mybatis Generator最佳使用实现 http://git.oschina.net/free/Mapper/blob/master/wiki/mapper3/7.UseMBG.md
+						mybatis之mybatis-config.xml 配置详解: http://blog.csdn.net/u014593633/article/details/51888674
+						Oracle数据库mybatis 插入空值时报错（with JdbcType OTHER）:http://blog.csdn.net/fishernemo/article/details/27649233
 	9) hibernate :
 						解决使用HIBERNATE对ORACLE数据库中数据进行排序分页错乱的问题 : http://blog.csdn.net/aquadp/article/details/2248612
 	10)Java工程师成神之路:
@@ -138,6 +140,8 @@
 	16)SpringMVC在Controller层中注入request的坑:
 							 https://my.oschina.net/sluggarddd/blog/678603?fromerr=XhvpvVTi
 	17)fastjson格式转换 ：http://bbs.csdn.net/topics/391843950?page=1
+	
+	18)基于OAUTH2的统一认证的实例解析 : http://www.tuicool.com/articles/eque2mU
 						
 						
 ---------------架构：
