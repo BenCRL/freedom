@@ -194,7 +194,9 @@
 	
 	31)boostrap-treeview extend 				http://blog.csdn.net/hotqin888/article/details/54798737?locationNum=8&fps=1
 	
-	
+	32)微信提示浏览器外打开						http://caibaojian.com/weixin-tip.html
+												http://caibaojian.com/weixin-tip2.html
+												http://caibaojian.com/weixin-tip3.html
 ---------------HTML,CSS：
 		1)ie bug集合：http://www.w3cplus.com/solution/iebug/iebug.html
 		2)css-中的垂直居中法:http://elevenbeans.github.io/2016/05/04/css-中的垂直居中法/
