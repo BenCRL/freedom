@@ -142,6 +142,9 @@
 	17)fastjson格式转换 ：http://bbs.csdn.net/topics/391843950?page=1
 	
 	18)基于OAUTH2的统一认证的实例解析 : http://www.tuicool.com/articles/eque2mU
+	
+	19)spring整合ehcache : http://www.cnblogs.com/jingmoxukong/p/5975994.html
+						   http://yunzhu.iteye.com/blog/2119094?utm_source=tuicool
 						
 						
 ---------------架构：
