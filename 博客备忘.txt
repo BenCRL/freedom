@@ -145,6 +145,17 @@
 	
 	19)spring整合ehcache : http://www.cnblogs.com/jingmoxukong/p/5975994.html
 						   http://yunzhu.iteye.com/blog/2119094?utm_source=tuicool
+	
+	20)tomcat支持apr : http://www.linuxdiyf.com/linux/12303.html
+					   https://my.oschina.net/songxinqiang/blog/418794?p=1
+					   http://blog.csdn.net/wangnan537/article/details/6155268
+					   http://blog.csdn.net/jiahehao/article/details/6834214
+	
+	21)linux安装JDK：http://www.cnblogs.com/mchina/archive/2012/06/28/2567597.html
+	
+	22）shiro ajax超时解决：http://www.oschina.net/question/1172172_2179723
+							http://www.cnblogs.com/jinxinblogs/p/6114333.html
+							http://blog.csdn.net/jrn1012/article/details/70396502
 						
 						
 ---------------架构：
