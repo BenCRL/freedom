@@ -156,6 +156,8 @@
 	22）shiro ajax超时解决：http://www.oschina.net/question/1172172_2179723
 							http://www.cnblogs.com/jinxinblogs/p/6114333.html
 							http://blog.csdn.net/jrn1012/article/details/70396502
+							
+	23)mysql存储emoji表情：https://segmentfault.com/a/1190000000616820
 						
 						
 ---------------架构：
