@@ -158,6 +158,9 @@
 							http://blog.csdn.net/jrn1012/article/details/70396502
 							
 	23)mysql存储emoji表情：https://segmentfault.com/a/1190000000616820
+
+---------------JAVA源码剖析：
+	1)HashMap深度分析：http://www.jianshu.com/p/8b372f3a195d
 						
 						
 ---------------架构：
