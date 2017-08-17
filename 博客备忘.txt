@@ -161,7 +161,9 @@
 
 ---------------JAVA源码剖析：
 	1)HashMap深度分析：http://www.jianshu.com/p/8b372f3a195d
+	  美团点评分析：   https://tech.meituan.com/java-hashmap.html
 	2)ArrayList深度学习：https://zhuanlan.zhihu.com/p/27873515
+	  fail-fast机制：http://blog.csdn.net/chenssy/article/details/38151189
 						
 						
 ---------------架构：
