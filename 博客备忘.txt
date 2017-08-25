@@ -164,7 +164,11 @@
 	  美团点评分析：   https://tech.meituan.com/java-hashmap.html
 	2)ArrayList深度学习：https://zhuanlan.zhihu.com/p/27873515
 	  fail-fast机制：http://blog.csdn.net/chenssy/article/details/38151189
-						
+	3)LinkedList深度学习：https://zhuanlan.zhihu.com/p/24730576
+						  https://github.com/CarpenterLee/JCFInternals
+
+---------------算法：
+	1)lintCode解答：http://www.cnblogs.com/DarrenChan/p/5724502.html
 						
 ---------------架构：
 	基于keepalived的nginx高可用方案     http://wosyingjun.iteye.com/blog/2313147
@@ -273,7 +277,9 @@ maven常用命令:
   -DgroupId=[your project's group id]
   -DartifactId=[your project's artifact id]
   -DarchetypeArtifactId=maven-archetype-webapp
-mvn archetype:create -DgroupId=com.learn -DartifactId=page-demo -DarchetypeArtifactId=maven-archetype-webapp  
+mvn archetype:create -DgroupId=com.learn -DartifactId=page-demo -DarchetypeArtifactId=maven-archetype-webapp 
+
+mvn archetype:generate -DgroupId=com.learn -DartifactId=lintCode-learn -DarchetypeArtifactId=maven-archetype-quickstart 
 
 maven assemble打包插件:http://blog.csdn.net/e5945/article/details/7777286
 					   http://blog.csdn.net/WANGYAN9110/article/details/38646677/
