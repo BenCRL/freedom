@@ -166,13 +166,20 @@
 	  fail-fast机制：http://blog.csdn.net/chenssy/article/details/38151189
 	3)LinkedList深度学习：https://zhuanlan.zhihu.com/p/24730576
 						  https://github.com/CarpenterLee/JCFInternals
+	4)美团技术文章：https://tech.meituan.com/java-memory-reordering.html
+					https://tech.meituan.com/mysql-index.html
+					https://tech.meituan.com/emma.html
+					https://tech.meituan.com/in_depth_understanding_string_intern.html
 
 ---------------算法：
 	1)lintCode解答：http://www.cnblogs.com/DarrenChan/p/5724502.html
+	2)排序算法：https://sort.hust.cc/3.insertionSort.html
+				http://www.jianshu.com/p/1b4068ccd505
 						
 ---------------架构：
 	基于keepalived的nginx高可用方案     http://wosyingjun.iteye.com/blog/2313147
 	Nginx反向代理，负载均衡，redis session共享，keepalived高可用 http://www.cnblogs.com/mrlinfeng/p/6146866.html
+	redis sentinel 主从切换(failover)解决方案，详细配置 : http://blog.csdn.net/pi9nc/article/details/17735653
 	
 	
 	
