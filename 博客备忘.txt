@@ -145,6 +145,7 @@
 	
 	19)spring整合ehcache : http://www.cnblogs.com/jingmoxukong/p/5975994.html
 						   http://yunzhu.iteye.com/blog/2119094?utm_source=tuicool
+						   https://www.ibm.com/developerworks/cn/java/j-lo-ehcache/
 	
 	20)tomcat支持apr : http://www.linuxdiyf.com/linux/12303.html
 					   https://my.oschina.net/songxinqiang/blog/418794?p=1
